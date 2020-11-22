@@ -4,7 +4,7 @@ Ejercicios de procesamiento de texto, visualizaciones entre otros.
 
 # Proyectos
 
--  1. Clase_NLP
+-  * Clase_NLP
 -  2. Scraping
 -  3. Ejercicios-Python
 -  3. Procesaminento_Limpieza_Texto
