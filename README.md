@@ -20,7 +20,7 @@ A continuación, veremos el listado de los proyectos en donde podremos profundiz
 
 - [TFIDF_Procesamiento](https://github.com/normacalamartinez/TFIDF_Procesamiento.git) Teniendo un conjunto de datos de las princesas de Disney podemos analizar la relación entre ellas que por su descripción y poder notar qué tan parecidas son... esto con la técnica de TF-IDF y la distancia del coseno para notar todo lo contrario que es lo diferentes que pueden ser estas princesas.
 
-- [Word2Vec_Libre](https://github.com/normacalamartinez/Word2Vec_Libre.git) En este proyecto analizaremos la información con tal de buscar las palabras más usadas para realizar el proceso de verlo en un plano cartesiano. Esto nos indicaría la relación de que tan cerca o lejos están la significancia de las palabras.
+- [Word2Vec_Libre](https://github.com/normacalamartinez/Word2Vec_Libre.git) En este proyecto analizaremos la información con tal de buscar las palabras más usadas para realizar el proceso de verlo en un plano cartesiano. Esto nos indicaría la relación de que tan cerca o lejos están la significancia de las palabras. 
 
 - [Modeling_Themes](https://github.com/normacalamartinez/Modeling_Themes.git) Visualización de modelado de temas 
 
