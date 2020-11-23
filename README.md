@@ -15,11 +15,13 @@ A continuación, veremos el listado de los proyectos en donde podremos profundiz
 
 - [Ejercicios-Python](https://github.com/normacalamartinez/Ejercicios-Python.git) Te mostraré algunos ejercicios básicos para poder aprender y conocer un poco más de Python para poder entrarnos al mundo de la programación y poder tener bases para los procesos que veremos más adelante.
 
-- [Feature_Engineering](https://github.com/normacalamartinez/Feature_Engineering.git)  Procesar información.
+- [Feature_Engineering](https://github.com/normacalamartinez/Feature_Engineering.git)  Procesar información creando una bolsa de palabras (BoW) del corpus para pre-procesar información.
 
 - [Procesaminento_Limpieza_Texto](https://github.com/normacalamartinez/Procesaminento_Limpieza_Texto.git) Herramientas generales para la limpieza de texto, algunas como Stop Words (Palabras vacías),Tokenization (Tokenización), Stemming (Raíz),Lemmatization (Lematización), POS tagging (Etiquetado gramatical) etc, esto para poder quedarnos con el texto más útil y entrar a procesar.
 
-- [TFIDF_Procesamiento](https://github.com/normacalamartinez/TFIDF_Procesamiento.git) Teniendo un conjunto de datos de las princesas de Disney podemos analizar la relación entre ellas que por su descripción y poder notar qué tan parecidas son... esto con la técnica de TF-IDF y la distancia del coseno para notar todo lo contrario que es lo diferentes que pueden ser estas princesas.
+- [TFIDF_Procesamiento](https://github.com/normacalamartinez/TFIDF_Procesamiento.git) Teniendo un conjunto de datos de las princesas de Disney procesaremos los datos sin caracteres especiales, ni números, sin palabras vacias y hacer stemming de las palabras así podemos analizar la relación entre ellas que por su descripción y poder notar qué tan parecidas son... esto con la técnica de TF-IDF y la distancia del coseno para notar todo lo contrario que es lo diferentes que pueden ser estas princesas.
+a. ¿Cuáles son las princesas más parecidas?
+b. ¿Cuáles son las princesas más diferentes?
 
 - [Word2Vec_Libre](https://github.com/normacalamartinez/Word2Vec_Libre.git) En este proyecto analizaremos la información con tal de buscar las palabras más usadas para realizar el proceso de verlo en un plano cartesiano. Esto nos indicaría la relación de que tan cerca o lejos están la significancia de las palabras. 
 
