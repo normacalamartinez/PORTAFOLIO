@@ -1,3 +1,5 @@
+![Image](/FOTONORMA.png)
+
 Hola soy Norma Cala, me gusta y me apasiona el análisis de datos en sus diferentes formas y tipos de herramientas para poder mostrar la salida de los datos en visualizaciones agradables para el usuario final. Mi mayor trayectoria de mi carrera profesional ha estado vinculada con procesamiento de datos, base de datos y análisis de datos con Inteligencia artificial, Machine Learning entre otros.
 En este repositorio he podido integrar y tener disponible una serie de trabajos interesantes y ejercicios de procesamiento de texto, visualizaciones, APIS para descargar información de redes sociales, entre otros que le podrán ser muy útil para diversos temas que un Científico de Datos habitualmente trabaja, utilizaremos Python, R, Machine Learning e Inteligencia artificial.
 
