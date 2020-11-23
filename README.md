@@ -11,7 +11,7 @@ A continuación, veremos el listado de los proyectos en donde podremos profundiz
 
 - [Ejercicios-Python](https://github.com/normacalamartinez/Ejercicios-Python.git) Te mostraré algunos ejercicios básicos para poder aprender y conocer un poco más de Python para poder entrarnos al mundo de la programación y poder tener bases para los procesos que veremos más adelante.
 
-- [Feature_Engineering](https://github.com/normacalamartinez/Feature_Engineering.git) Procesar información.
+- [Feature_Engineering](https://github.com/normacalamartinez/Feature_Engineering.git)  Procesar información.
 
 - [Procesaminento_Limpieza_Texto](https://github.com/normacalamartinez/Procesaminento_Limpieza_Texto.git) Herramientas generales para la limpieza de texto, algunas como Stop Words (Palabras vacías),Tokenization (Tokenización), Stemming (Raíz),Lemmatization (Lematización), POS tagging (Etiquetado gramatical) etc, esto para poder quedarnos con el texto más útil y entrar a procesar.
 
