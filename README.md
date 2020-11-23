@@ -3,7 +3,7 @@ Bienvenido al repositorio de mi portafolio.
 <p><img src="FOTONORMA.png" align="center"></p>
 
 
-https://normacalamartinez.github.io/PORTAFOLIO/.
+Para ver en formato web por favor dar clic [aquí](https://normacalamartinez.github.io/PORTAFOLIO/)
 
 Hola soy <strong>Norma Yuliana Cala Martínez</strong> ingeniera de sistemas con experiencia en BI (Business Intelligence), persona competente para proponer, evaluar, y planificar proyectos en cualquier etapa de desarrollo. Trabajo con responsabilidad, Pro actividad y orientación al cumplimiento de los objetivos o metas propuestas, me gusta y me apasiona el análisis de datos en sus diferentes formas y tipos de herramientas, llevamos a obtener visualizaciones agradables para el usuario final. Mi mayor trayectoria en mi carrera profesional ha estado vinculada con base de datos , procesamiento y análisis de datos y ahora con Inteligencia artificial, Machine Learning entre otros.
 
