@@ -5,8 +5,9 @@ Bienvenido al repositorio de mi portafolio.
 
 https://normacalamartinez.github.io/PORTAFOLIO/.
 
-Hola soy <strong>Norma Yuliana Cala Martínez</strong>, me gusta y me apasiona el análisis de datos en sus diferentes formas y tipos de herramientas, esto para poder mostrar la salida de los datos en visualizaciones agradables para el usuario final. Mi mayor trayectoria de mi carrera profesional ha estado vinculada con procesamiento de datos, base de datos y análisis de datos con Inteligencia artificial, Machine Learning entre otros.
-En este repositorio he podido integrar y tener disponible una serie de trabajos interesantes y ejercicios de procesamiento de texto, visualizaciones, APIS para descargar información de redes sociales, entre otros que le podrán ser muy útil para diversos temas que un Científico de Datos habitualmente trabaja, utilizaremos Python, R, Machine Learning e Inteligencia artificial.
+Hola soy <strong>Norma Yuliana Cala Martínez</strong> ingeniera de sistemas con experiencia en BI (Business Intelligence), persona competente para proponer, evaluar, y planificar proyectos en cualquier etapa de desarrollo. Trabajo con responsabilidad, Pro actividad y orientación al cumplimiento de los objetivos o metas propuestas, me gusta y me apasiona el análisis de datos en sus diferentes formas y tipos de herramientas, llevamos a obtener visualizaciones agradables para el usuario final. Mi mayor trayectoria en mi carrera profesional ha estado vinculada con base de datos , procesamiento y análisis de datos y ahora con Inteligencia artificial, Machine Learning entre otros.
+
+Este repositorio contiene un breve resumen de algunos trabajos interesantes que son una mezcla de ejercicios de procesamiento de texto, visualizaciones, APIS para descargar información de redes sociales, entre otros que le podrán ser muy útiles para diversos temas, este repositorio contiene muchos ejemplos que un Científico de Datos habitualmente trabaja. Como herrramientas de desarrollo utilizaremos Python, R, Machine Learning e Inteligencia artificial.
 
 A continuación, veremos el listado de los proyectos en donde podremos profundizar temas interesantes:
 
