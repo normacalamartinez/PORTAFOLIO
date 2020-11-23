@@ -42,4 +42,4 @@ b. ¿Cuáles son las princesas más diferentes?
 
 
 
-Muchas gracias por leer este portafolio y espero que te haya sido de gran utilidad para tus proyectos o trabajos. Si quieres contactarme podrás hacerlo mediante la red social de profesionales a través de [LinkedIn](https://www.linkedin.com/in/norma-yuliana-cala-martinez-40499646/)
+Muchas gracias por leer este portafolio y espero que te haya sido de gran utilidad para tus proyectos o trabajos. Si quieres contactarme podrás hacerlo mediante la red social de profesionales a través de LinkedIn haciendo clic ![Image](/flecha.gif) [aquí](https://www.linkedin.com/in/norma-yuliana-cala-martinez-40499646/)
