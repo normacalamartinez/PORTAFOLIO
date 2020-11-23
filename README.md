@@ -1,4 +1,4 @@
-<p><img src="FOTONORMA.png" align="left"></p>
+<p><img src="FOTONORMA.png" align="center"></p>
 
 
 Hola soy Norma Cala, me gusta y me apasiona el análisis de datos en sus diferentes formas y tipos de herramientas para poder mostrar la salida de los datos en visualizaciones agradables para el usuario final. Mi mayor trayectoria de mi carrera profesional ha estado vinculada con procesamiento de datos, base de datos y análisis de datos con Inteligencia artificial, Machine Learning entre otros.
